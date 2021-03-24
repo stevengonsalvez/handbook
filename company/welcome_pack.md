@@ -57,6 +57,7 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 * [ ] 1Password (with 2FA)
 * [ ] Trello (with 2FA unless using Google Auth to login to Trello)
 * [ ] CharlieHR
+* [ ] Another service
 
 Academy Engineers: you can skip these two for now, but you will probably need them once you graduate.
 
